@@ -1,0 +1,2 @@
+# img_locate
+Actions to support:  - Select a file from the user’s computer to act as the image being discussed  - When the user clicks on the image, a pin should be placed on it, and a comment box opened on the right hand side, a bit like comments in Google Docs  - The user may then type into that comment  - If the user writes an email address, when they press ‘comment’ an email is sent to that person notifying them  - They may then unselect the pin, select another pin by clicking on it to view the associated comment or add another pin.
